@@ -1,4 +1,3 @@
-import React from 'react';
 export const Data = [
   { id: 1, name: 'Hit the gym' },
   { id: 2, name: 'Pay bills' },
